@@ -1,4 +1,4 @@
-# MD5 and Sha-256
+# MD5 and Sha256
 
 This is a cryptographic project.
 
