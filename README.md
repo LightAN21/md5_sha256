@@ -2,7 +2,7 @@
 
 This is a cryptographic project.
 
-The goal is to create a program (written in C) that will combine functionality of *MD5* and *Sha-256*.
+The goal is to create a program (written in C) that will combine functionality of *MD5* and *openssl*.
 
 ### Usage
 * git clone https://github.com/LightAN21/md5_sha256.git ~/MD5_Sha256
